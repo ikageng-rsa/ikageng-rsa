@@ -1,4 +1,4 @@
-<img src="Avatar.png" height="200px" width="300px"/>
+<img src="Avatar.png"/>
 
 <h1>Hi 👋, I'm Ikageng Tladi</h1>
 <h3>Backend Developer | Building Custom Frameworks & Apps | PHP & Java Enthusiast</h3>
