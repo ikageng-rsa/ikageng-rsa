@@ -1,5 +1,5 @@
-## Hi there 👋
-
+<h1 align="center">Hi 👋, I'm Ikageng Tladi</h1>
+<h3 align="center">Backend Developer | Building Custom Frameworks & Apps | PHP & Java Enthusiast</h3>
 <!--
 **ikageng-sa/ikageng-sa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
