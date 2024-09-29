@@ -9,4 +9,6 @@ I'm a passionate full-stack developer with a focus on web applications. I love d
 [![Instagram Badge](https://img.shields.io/badge/-@ikageng.sa-blue?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ikageng.sa/)](https://instagram.com/ikageng.sa)
 
 
- ## My skillset
+## 🛠️ Languages & Tools
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/></code>
