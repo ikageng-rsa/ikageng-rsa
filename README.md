@@ -21,32 +21,29 @@ I'm a passionate full-stack developer with a focus on web applications. I love d
 ### 🛠️ Languages & Tools
 
 #### Languages
-<div style="display: flex; flex-direction: row;">
-  <span><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="40" height="40"/></span>
-  <span><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java"  alt="Java" width="40" height="40"/></span>
-  <span><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/></span>
-  <span><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS" width="40" height="40"/></span>
-</div>
+### 🛠️ Languages & Tools
 
-#### Frameworks & Libraries 
+#### Languages
+![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
 
-<div style="display: flex; flex-direction: row;"> <span><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel"  alt="Laravel" width="40" height="40"/></span>
- <span><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap"  alt="Bootstrap" width="40" height="40"/></span>
- <span><img src="https://github.com/devicons/devicon/blob/master/icons/livewire/livewire-original.svg" title="Livewire"  alt="Livewire" width="40" height="40"/></span>
-</div>
+#### Frameworks & Libraries
+![Laravel](https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)
+![Livewire](https://img.shields.io/badge/Livewire-black?style=for-the-badge&logo=livewire)
 
 #### Databases
-<div style="display: flex; flex-direction: row;">
-<span><img src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg" title="Azure SQL"  alt="Azure SQL" width="40" height="40"/></span>
-  <span><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/></span>
-</div>
+![Azure SQL](https://img.shields.io/badge/Azure_SQL-black?style=for-the-badge&logo=microsoft-azure)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
 
 #### Cloud Services & Tools
-<div style="display: flex; flex-direction: row;">
-  <span><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure"  alt="Azure" width="40" height="40"/></span>
-</div>
+![Azure](https://img.shields.io/badge/Azure-black?style=for-the-badge&logo=microsoft-azure)
+
+#### Version Control
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 
 #### Operating Systems
-<div style="display: flex; flex-direction: row;">
- <span><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="40" height="40"/></span>
-</div>
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
