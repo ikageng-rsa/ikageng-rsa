@@ -23,23 +23,23 @@ I'm a passionate full-stack developer with a focus on web applications. I love d
 
 #### Frameworks & Libraries 
 
-<div style="display: flex; flex-direction: row;> <span><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel"  alt="Laravel" width="40" height="40"/></span>
+<div style="display: flex; flex-direction: row;"> <span><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel"  alt="Laravel" width="40" height="40"/></span>
  <span><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap"  alt="Bootstrap" width="40" height="40"/></span>
  <span><img src="https://github.com/devicons/devicon/blob/master/icons/livewire/livewire-original.svg" title="Livewire"  alt="Livewire" width="40" height="40"/></span>
 </div>
 
 #### Databases
-<div style="display: flex; flex-direction: row;>
+<div style="display: flex; flex-direction: row;">
 <span><img src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg" title="Azure SQL"  alt="Azure SQL" width="40" height="40"/></span>
   <span><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/></span>
 </div>
 
 #### Cloud Services & Tools
-<div style="display: flex; flex-direction: row;>
+<div style="display: flex; flex-direction: row;">
   <span><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure"  alt="Azure" width="40" height="40"/></span>
 </div>
 
 #### Operating Systems
-<div style="display: flex; flex-direction: row;>
-  <span><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="40" height="40"/></span>
+<div style="display: flex; flex-direction: row;">
+ <span><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="40" height="40"/></span>
 </div>
