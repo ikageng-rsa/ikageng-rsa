@@ -1,4 +1,4 @@
-<img align="left" src="Avatar.png"/>
+<img align="center" src="Avatar.png"/>
 
 <div align="center">
 <h1>
