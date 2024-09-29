@@ -15,12 +15,7 @@ I'm a passionate full-stack developer with a focus on web applications. I love d
 [![Linkedin Badge](https://img.shields.io/badge/-Ikageng_Tladi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/aman-atg/](https://www.linkedin.com/in/ikageng-tladi-a91666114?trk=blended-typeahead))](https://www.linkedin.com/in/ikageng-tladi-a91666114?trk=blended-typeahead)
 [![Telegram Badge](https://img.shields.io/badge/-Ikageng_Tladi-2399ff?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/ikagengsa/)](https://t.me/ikagengsa)
 
-
  
- 
-### 🛠️ Languages & Tools
-
-#### Languages
 ### 🛠️ Languages & Tools
 
 #### Languages
