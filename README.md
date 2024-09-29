@@ -10,10 +10,10 @@ I'm a passionate full-stack developer with a focus on web applications. I love d
 
 
 ### Connect with me <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:tladiomphile@gmail.com)](mailto:tladiomphile@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/ikageng.sa/)](https://instagram.com/ikageng.sa)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ikageng-tladi-a91666114?trk=blended-typeahead)](https://www.linkedin.com/in/ikageng-tladi-a91666114?trk=blended-typeahead)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-2399ff?style=for-the-badge&logo=Telegram&logoColor=white&link=https://t.me/ikagengsa/)](https://t.me/ikagengsa)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tladiomphile@gmail.com)](mailto:tladiomphile@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ikageng.sa/)](https://instagram.com/ikageng.sa)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ikageng-tladi-a91666114?trk=blended-typeahead)](https://www.linkedin.com/in/ikageng-tladi-a91666114?trk=blended-typeahead)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-2399ff?style=flat&logo=Telegram&logoColor=white&link=https://t.me/ikagengsa/)](https://t.me/ikagengsa)
 
 ______
  
