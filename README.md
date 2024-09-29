@@ -1,9 +1,12 @@
 <img align="left" src="Avatar.png"/>
 
-<div align="right">
-<h1>Hi 👋 I'm Ikageng Tladi</h1>
+<div align="center">
+<h1>
+Hi 👋 I'm Ikageng Tladi
+</h1>
 <h3>
 Backend Developer | Building Custom Frameworks & Apps | PHP & Java Enthusiast
+Enthusiast
 Enthusiast</h3>
 
 <p>
