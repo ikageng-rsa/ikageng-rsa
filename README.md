@@ -41,6 +41,10 @@ ______
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 
+### Editors
+![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visual-studio-code)
+![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-black?style=for-the-badge&logo=sublime-text)
+
 #### Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 
