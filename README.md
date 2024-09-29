@@ -10,11 +10,12 @@ I'm a passionate full-stack developer with a focus on web applications. I love d
 
 
 ### Connect with me <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
-[![Gmail Badge](https://img.shields.io/badge/-tladiomphile@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tladiomphile@gmail.com)](mailto:tladiomphile@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@ikageng.sa-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ikageng.sa/)](https://instagram.com/ikageng.sa)
-[![Linkedin Badge](https://img.shields.io/badge/-Ikageng_Tladi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/aman-atg/](https://www.linkedin.com/in/ikageng-tladi-a91666114?trk=blended-typeahead))](https://www.linkedin.com/in/ikageng-tladi-a91666114?trk=blended-typeahead)
-[![Telegram Badge](https://img.shields.io/badge/-Ikageng_Tladi-2399ff?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/ikagengsa/)](https://t.me/ikagengsa)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tladiomphile@gmail.com)](mailto:tladiomphile@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ikageng.sa/)](https://instagram.com/ikageng.sa)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/aman-atg/](https://www.linkedin.com/in/ikageng-tladi-a91666114?trk=blended-typeahead))](https://www.linkedin.com/in/ikageng-tladi-a91666114?trk=blended-typeahead)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-2399ff?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/ikagengsa/)](https://t.me/ikagengsa)
 
+______
  
 ### 🛠️ Languages & Tools
 
@@ -42,3 +43,8 @@ I'm a passionate full-stack developer with a focus on web applications. I love d
 
 #### Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+
+_______
+
+### What I'm currently learning
+![Spring](http://img.shields.io/badge/-Spring-black?style=for-the-badge&logo=spring)
