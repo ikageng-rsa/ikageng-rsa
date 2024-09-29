@@ -35,10 +35,11 @@ I'm a passionate full-stack developer with a focus on web applications. I love d
 </div>
 
 #### Cloud Services & Tools
-
-
+<div style="display: flex; flex-direction: row;>
   <span><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure"  alt="Azure" width="40" height="40"/></span>
+</div>
 
 #### Operating Systems
-- **Linux**  
+<div style="display: flex; flex-direction: row;>
   <span><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="40" height="40"/></span>
+</div>
