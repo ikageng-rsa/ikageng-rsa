@@ -9,6 +9,8 @@ $ whoami
 ### Full-Stack Developer | Building Custom Frameworks & Apps | PHP & Java Enthusiast
 I'm a passionate full-stack developer with a focus on web applications. I love diving deep into backend development. Currently expanding my expertise in Java development and continuously pushing the boundaries of what I can create.
 
+💯 I take pride in being teachable, so feel free to offer advice or even mentorship.
+
 ### Connect with me <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tladiomphile@gmail.com)](mailto:tladiomphile@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ikageng.sa/)](https://instagram.com/ikageng.sa)
