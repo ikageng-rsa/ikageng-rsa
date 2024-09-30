@@ -1,11 +1,11 @@
-<img src="view-3d-boy-using-laptop-removebg-preview.png"/>
+![image](view-3d-boy-using-laptop-removebg-preview.png)
 
 #  Hi 👋 I'm Ikageng
 ```
 $ whoami
   qanna
 ```
-### Backend Developer | Building Custom Frameworks & Apps | PHP & Java Enthusiast
+### Full-Stack Developer | Building Custom Frameworks & Apps | PHP & Java Enthusiast
 I'm a passionate full-stack developer with a focus on web applications. I love diving deep into backend development. Currently expanding my expertise in Java development and continuously pushing the boundaries of what I can create.
 
 
