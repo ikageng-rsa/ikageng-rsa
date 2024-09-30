@@ -1,10 +1,11 @@
+#  Hi 👋 I'm Ikageng
 <img align="right" style="z-index:100;" src="view-3d-boy-using-laptop-removebg-preview.png" width="300" height="300">
 
-#  Hi 👋 I'm Ikageng
 ```
 $ whoami
   qanna
 ```
+
 ### Full-Stack Developer | Building Custom Frameworks & Apps | PHP & Java Enthusiast
 I'm a passionate full-stack developer with a focus on web applications. I love diving deep into backend development. Currently expanding my expertise in Java development and continuously pushing the boundaries of what I can create.
 
