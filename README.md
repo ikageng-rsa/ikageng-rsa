@@ -1,15 +1,15 @@
 #  Hi 👋 I'm Ikageng
 <img align="right" style="z-index:100;" src="view-3d-boy-using-laptop-removebg-preview.png" width="300" height="300">
 
-```
+```bash
 $ whoami
   qanna
 ```
 
-### Full-Stack Developer | Building Custom Frameworks & Apps | PHP & Java Enthusiast
-I'm a passionate full-stack developer with a focus on web applications. I love diving deep into backend development. Currently expanding my expertise in Java development and continuously pushing the boundaries of what I can create.
+### Full-Stack Developer | Building Frameworks, Packages & Apps | PHP & Java Enthusiast
+I'm a passionate full-stack developer with a focus on web applications. I love diving deep into the backend architecture of frameworks to understand how they work under the hood. Currently expanding my expertise in Java development and continuously pushing the boundaries of what I can create.
 
-💯 I take pride in being teachable, so feel free to offer advice or even mentorship.
+💯 I'm committed to learning, so don't hesitate to share advice or mentorship opportunities.
 
 ### Connect with me <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tladiomphile@gmail.com)](mailto:tladiomphile@gmail.com)
