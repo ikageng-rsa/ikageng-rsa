@@ -1,4 +1,4 @@
-<img src="Avatar.png"/>
+<img src="view-3d-boy-using-laptop-removebg-preview.png"/>
 
 #  Hi 👋 I'm Ikageng
 ```
