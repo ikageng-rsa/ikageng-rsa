@@ -1,4 +1,4 @@
-![image](view-3d-boy-using-laptop-removebg-preview.png)
+<img src="view-3d-boy-using-laptop-removebg-preview.png" width="300" height="300">
 
 #  Hi 👋 I'm Ikageng
 ```
