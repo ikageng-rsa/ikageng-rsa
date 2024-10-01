@@ -54,3 +54,7 @@ ______
 #### Operating Systems
 ![Debian](https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=debian)
 
+<br>
+<div align="center">
+  ⭐ Thanks for the visit
+</div>
