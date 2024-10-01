@@ -6,8 +6,12 @@ $ whoami
   qanna
 ```
 
-### Full-Stack Developer | Building Frameworks, Packages & Apps | PHP & Java Enthusiast
-I'm a passionate full-stack developer with a focus on web applications. I love diving deep into the backend architecture of frameworks to understand how they work under the hood. Currently expanding my expertise in Java development and continuously pushing the boundaries of what I can create.
+### Software developer with a knack for writing code, problems-solving, and building apps.
+
+- Pronouns: he/him
+- Currently expanding my expertise in Java, learning Spring
+- Looking to collaborate on open-source projects
+- Fun fact: I often recreate concepts to reinforce my understanding
 
 💯 I'm committed to learning, so don't hesitate to share advice or mentorship opportunities.
 
@@ -33,7 +37,7 @@ ______
 ![Livewire](https://img.shields.io/badge/Livewire-black?style=for-the-badge&logo=livewire)
 
 #### Databases
-![Azure SQL](https://img.shields.io/badge/Azure_SQL-black?style=for-the-badge&logo=microsoft-azure)
+![MS SQL](https://img.shields.io/badge/MS_SQL-black?style=for-the-badge&logo=microsoft)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
 
 #### Cloud Services & Tools
@@ -48,9 +52,5 @@ ______
 ![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-black?style=for-the-badge&logo=sublime-text)
 
 #### Operating Systems
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Debian](https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=debian)
 
-_______
-
-### What I'm currently learning
-![Spring](http://img.shields.io/badge/-Spring-black?style=for-the-badge&logo=spring)
