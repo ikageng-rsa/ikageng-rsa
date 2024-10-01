@@ -20,6 +20,7 @@ $ whoami
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ikageng.sa/)](https://instagram.com/ikageng.sa)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ikageng-tladi-a91666114?trk=blended-typeahead)](https://www.linkedin.com/in/ikageng-tladi-a91666114?trk=blended-typeahead)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-2399ff?style=flat&logo=Telegram&logoColor=white&link=https://t.me/ikagengsa/)](https://t.me/ikagengsa)
+[![Discord Badge](https://img.shields.io/badge/-Discord-2c2f33?style=flat&logo=Discord&logoColor=white&link=https://discord.com/invite/2maBdfev)](https://discord.com/invite/2maBdfev)
 
 ______
  
