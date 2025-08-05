@@ -6,10 +6,10 @@ $ whoami
   qanna
 ```
 
-### Software developer with a knack for writing code, problem-solving, and building apps.
+### Developer with a knack for problem-solving and building apps.
 
 - Pronouns: he/him
-- Currently expanding my expertise in Java, learning Spring
+- Currently expanding my expertise in AI and Automation
 - Looking to collaborate on open-source projects
 - Fun fact: I often recreate concepts to reinforce my understanding
 
